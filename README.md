@@ -24,7 +24,7 @@ _**IAbstract**_ is an NLP (Natural Language Processing) project, developed by UF
 ## Authors
 
 - [@Lucas Bitu](https://github.com/lucasbitu)
-- [@Marcelo de Freitas](https://github.com/GeorgePaulino)
+- [@Marcelo de Freitas](https://github.com/MarceloFreitass)
 - [@Marilia Brito](https://github.com/mariliabrito)
 - [@Ralf Dewrich](https://github.com/ralfferreira)
 - [@George P.](https://github.com/GeorgePaulino)
